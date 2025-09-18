@@ -81,8 +81,8 @@ Contributions and feature requests are welcome!
 
 ## Links
 
-- 🌐 [GitHub Repository](https://github.com/your-username/bangla-lorem)
-- ❤️ [Support me on Patreon](https://patreon.com/orph1c)
+- 🌐 [GitHub Repository](https://github.com/f4him/bangla-lorem)
+- ❤️ [Support me on Patreon](https://patreon.com/f4him)
 
 ---
 

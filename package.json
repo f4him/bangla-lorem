@@ -1,9 +1,11 @@
 {
   "name": "bangla-lorem",
   "displayName": "Bangla Lorem",
-  "description": "Generate Bangla lorem text dynamically using bnlem<number>",
+  "description": "Generates Bangla lorem text dynamically using bnlem<number>",
   "version": "0.0.1",
-  "publisher": "orph1c",
+  "publisher": "f4him",
+  "pricing": "Free",
+  "repository": "https://github.com/f4him/bangla-lorem",
   "engines": {
     "vscode": "^1.104.0"
   },

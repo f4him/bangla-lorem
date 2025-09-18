@@ -81,6 +81,7 @@ Contributions and feature requests are welcome!
 
 ## Links
 
+- 🛒 [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=f4him.bangla-lorem)
 - 🌐 [GitHub Repository](https://github.com/f4him/bangla-lorem)
 - ❤️ [Support me on Patreon](https://patreon.com/f4him)
 
@@ -89,3 +90,5 @@ Contributions and feature requests are welcome!
 ## License
 
 This extension is licensed under the [MIT License](LICENSE.txt).
+
+> বাংলায় গান গাই✨
